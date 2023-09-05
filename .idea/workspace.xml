@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66067891-dcb3-4153-9feb-5ec6e32594c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/shop/services/ProductRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shop/models/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProductRepo.java" beforeDir="false" />
     </list>
-    <list id="2f971021-4e5c-42a6-924b-0aee971b6774" name="Changes by archfox" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/shop/services/IShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shop/services/IShopService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/shop/services/ShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shop/services/ShopService.java" afterDir="false" />
-    </list>
-    <list id="f78b7863-13e5-4795-b276-c371f5dacd0c" name="Changes by marcveizhans" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/shop/services/IShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shop/services/IShopService.java" afterDir="false" />
-    </list>
+    <list id="2f971021-4e5c-42a6-924b-0aee971b6774" name="Changes by archfox" comment="" />
+    <list id="f78b7863-13e5-4795-b276-c371f5dacd0c" name="Changes by marcveizhans" comment="" />
     <list id="2969077d-4119-4423-a9fd-4b3f52db9926" name="Changes by neuefische" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +29,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/src/main/java/shop/services/IShopService.java">
-      <ranges>
-        <range start1="2" end1="2" start2="2" end2="7" changelist="f78b7863-13e5-4795-b276-c371f5dacd0c" />
-        <range start1="4" end1="4" start2="9" end2="13" changelist="2f971021-4e5c-42a6-924b-0aee971b6774" />
-      </ranges>
-    </file>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MarcV42"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="8a492bfd-e260-47bd-8d0e-ae57c33921a4" />
+        <option name="url" value="https://github.com/ryliecc/Recap2Muster" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -81,10 +79,22 @@
       <updated>1693901222723</updated>
       <workItem from="1693901223720" duration="2349000" />
       <workItem from="1693903589473" duration="2492000" />
+      <workItem from="1693906471572" duration="844000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
